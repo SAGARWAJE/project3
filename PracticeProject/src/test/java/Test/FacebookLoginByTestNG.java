@@ -43,7 +43,12 @@ public class FacebookLoginByTestNG  {
 	}
 	
 	@Test
-	public void git2() {
-		System.out.println("added new method for git 2");
+	public void git3() {
+		System.out.println("added new method for git 3");
+	}
+	
+	@Test
+	public void git4() {
+		System.out.println("added new method for git 4");
 	}
 }
